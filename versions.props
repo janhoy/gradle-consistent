@@ -1,2 +1,2 @@
 org.apache.lucene:* = 8.4.0
-com.squareup.okhttp3:okhttp = 3.12.0
+com.squareup.okhttp3:okhttp = 4.10.0
