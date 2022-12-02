@@ -5,4 +5,4 @@ org.apache.commons:*=9.9
 # This will match commons-lang3
 org.apache.commons:commons-l*=3.9
 # This will match commons-collections4
-org.apache.commons:commons-*=4.2
+org.apache.commons:commons-*=4.4
