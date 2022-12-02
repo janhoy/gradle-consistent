@@ -3,6 +3,6 @@ commons-io:commons-io = 2.7
 # This glob will not match anything in our project
 org.apache.commons:*=9.9
 # This will match commons-lang3
-org.apache.commons:commons-l*=3.9
+org.apache.commons:commons-l*=3.12.0
 # This will match commons-collections4
 org.apache.commons:commons-*=4.2
